@@ -1,0 +1,49 @@
+comparacion,codigo,etiqueta,segmentos,fuentes
+voz_genero,G01,"female_feminine",46,46
+voz_genero,G02,"male_masculine",45,45
+voz_acentos,G01,"América central|Caribe: Cuba, Venezuela, Puerto Rico, República Dominicana, Panamá, Colombia caribeña, México caribeño, Costa del golfo de México",1,1
+voz_acentos,G02,"Caribe: Cuba, Venezuela, Puerto Rico, República Dominicana, Panamá, Colombia caribeña, México caribeño, Costa del golfo de México",30,30
+voz_acentos,G03,"Caribe: Cuba, Venezuela, Puerto Rico, República Dominicana, Panamá, Colombia caribeña, México caribeño, Costa del golfo de México|colombia",1,1
+voz_acentos,G04,"Caribe: Cuba, Venezuela, Puerto Rico, República Dominicana, Panamá, Colombia caribeña, México caribeño, Costa del golfo de México|rare",1,1
+voz_acentos,G05,"Cdmx",1,1
+voz_acentos,G06,"Ciudad de México",1,1
+voz_acentos,G07,"Mexicano",1,1
+voz_acentos,G08,"Mexicano central",1,1
+voz_acentos,G09,"México",54,54
+voz_acentos,G10,"México centro|CDMX, México",1,1
+voz_acentos,G11,"México|Andino-Pacífico: Colombia, Perú, Ecuador, oeste de Bolivia y Venezuela andina",2,2
+voz_acentos,G12,"México|Caribe: Cuba, Venezuela, Puerto Rico, República Dominicana, Panamá, Colombia caribeña, México caribeño, Costa del golfo de México|Andino-Pacífico: Colombia, Perú, Ecuador, oeste de Bolivia y Venezuela andina|Rioplatense: Argentina, Uruguay, este de Bolivia, Paraguay",1,1
+voz_acentos,G13,"México|De la ciudad de México",1,1
+voz_acentos,G14,"México|Mexico City",1,1
+voz_acentos,G15,"México|North Mexico",1,1
+voz_acentos,G16,"México|Ukrainian",1,1
+voz_acentos,G17,"México|acento frances",1,1
+maquinaria_tipos,G01,"Milling",90,90
+maquinaria_tipos,G02,"Other",10,1
+fresado_condiciones,G01,"feed-10mm/speed-250rpm/doc-0.25mm",6,6
+fresado_condiciones,G02,"feed-10mm/speed-250rpm/doc-0.5mm",6,6
+fresado_condiciones,G03,"feed-10mm/speed-250rpm/doc-0.75mm",6,6
+fresado_condiciones,G04,"feed-10mm/speed-250rpm/doc-1.0mm",6,6
+fresado_condiciones,G05,"feed-10mm/speed-500rpm/doc-0.25mm",6,6
+fresado_condiciones,G06,"feed-10mm/speed-500rpm/doc-0.5mm",6,6
+fresado_condiciones,G07,"feed-10mm/speed-500rpm/doc-0.75mm",6,6
+fresado_condiciones,G08,"feed-10mm/speed-500rpm/doc-1.0mm",3,3
+fresado_condiciones,G09,"feed-5mm/Speed-500rpm/doc-0.25mm",6,6
+fresado_condiciones,G10,"feed-5mm/Speed-500rpm/doc-0.50mm",6,6
+fresado_condiciones,G11,"feed-5mm/Speed-500rpm/doc-0.75mm",6,6
+fresado_condiciones,G12,"feed-5mm/Speed-500rpm/doc-1.0mm",4,4
+fresado_condiciones,G13,"feed-5mm/speed-250rpm/doc-0.25mm",6,6
+fresado_condiciones,G14,"feed-5mm/speed-250rpm/doc-0.5mm",6,6
+fresado_condiciones,G15,"feed-5mm/speed-250rpm/doc-0.75mm",6,6
+fresado_condiciones,G16,"feed-5mm/speed-250rpm/doc-1.0mm",5,5
+alarmas_tipos,G01,"Fire",6,1
+alarmas_tipos,G02,"General",15,4
+voz_vs_maquinaria,G01,"machinery",100,91
+voz_vs_maquinaria,G02,"speech",100,100
+alarmas_vs_maquinaria,G01,"alarms",21,5
+alarmas_vs_maquinaria,G02,"machinery",100,91
+voz_vs_alarmas,G01,"alarms",21,5
+voz_vs_alarmas,G02,"speech",100,100
+categorias,G01,"alarms",21,5
+categorias,G02,"machinery",100,91
+categorias,G03,"speech",100,100

@@ -1,0 +1,25 @@
+{
+  "audios_caracterizados": 221,
+  "audios_dataset": 221,
+  "sin_procesar": [],
+  "figuras_individuales_png": 221,
+  "figuras_individuales_pdf": 221,
+  "figuras_comparativas_png": 27,
+  "figuras_comparativas_pdf": 27,
+  "csv_numerico_finito": true,
+  "rms_y_pico_verificados_con_original": true,
+  "png_300_dpi": true,
+  "metodo_mfcc": "Audio_Toolbox_mfcc_log_ignore",
+  "comparaciones": [
+    "voz_genero",
+    "voz_acentos",
+    "maquinaria_tipos",
+    "fresado_condiciones",
+    "alarmas_tipos",
+    "voz_vs_maquinaria",
+    "alarmas_vs_maquinaria",
+    "voz_vs_alarmas",
+    "categorias"
+  ],
+  "training": false
+}

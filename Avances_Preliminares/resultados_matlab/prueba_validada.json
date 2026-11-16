@@ -1,0 +1,8 @@
+{
+  "estado": "aprobada_antes_del_procesamiento_completo",
+  "audios": 9,
+  "por_categoria": 3,
+  "validacion_matlab": "CSV numerico finito, formato exacto, nueve PNG 300 DPI y nueve PDF, cuatro paneles con ejes y titulos, dos barras de color por figura",
+  "inspeccion_visual_externa": ["Speech_M_00018.png", "Machine_Other_00001.png", "Alarm_Fire_00006.png"],
+  "resultado_visual": "paneles legibles, unidades y escalas diferenciadas para amplitud, PSD y potencia Mel"
+}

@@ -1,0 +1,23 @@
+{
+  "estado": "CSV e imagenes comprobados; pendiente inspeccion visual externa",
+  "audios": 9,
+  "archivos": [
+    "Speech_M_00018.wav",
+    "Speech_F_00002.wav",
+    "Speech_A_00007.wav",
+    "Machine_Milling_00029.wav",
+    "Machine_Other_00001.wav",
+    "Machine_Milling_00072.wav",
+    "Alarm_General_00003.wav",
+    "Alarm_Fire_00006.wav",
+    "Alarm_General_00001.wav"
+  ],
+  "categorias": [
+    "alarms",
+    "machinery",
+    "speech"
+  ],
+  "paneles_por_figura": 4,
+  "png_dpi": 300,
+  "mfcc_method": "Audio_Toolbox_mfcc_log_ignore"
+}

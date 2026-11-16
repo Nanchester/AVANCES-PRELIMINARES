@@ -1,0 +1,14 @@
+{
+  "estado": "aprobada",
+  "pruebas": [
+    "RMS seno 0.5 pico",
+    "RMS dBFS seno",
+    "FFT 1000Hz y ganancia coherente",
+    "Parseval PSD archivo",
+    "Integral PSD STFT",
+    "Potencia Mel seno",
+    "Planitud seno",
+    "STFT base igual a Signal Toolbox",
+    "MFCC alternativo finito"
+  ]
+}

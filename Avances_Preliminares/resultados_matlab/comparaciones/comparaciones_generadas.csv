@@ -1,0 +1,10 @@
+comparacion,estado,grupos,figuras_png,figuras_pdf
+voz_genero,generada_descriptiva_sin_inferencia,2,3,3
+voz_acentos,generada_descriptiva_sin_inferencia,17,3,3
+maquinaria_tipos,generada_descriptiva_sin_inferencia,2,3,3
+fresado_condiciones,generada_descriptiva_sin_inferencia,16,3,3
+alarmas_tipos,generada_descriptiva_sin_inferencia,2,3,3
+voz_vs_maquinaria,generada_descriptiva_sin_inferencia,2,3,3
+alarmas_vs_maquinaria,generada_descriptiva_sin_inferencia,2,3,3
+voz_vs_alarmas,generada_descriptiva_sin_inferencia,2,3,3
+categorias,generada_descriptiva_sin_inferencia,3,3,3

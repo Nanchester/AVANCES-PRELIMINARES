@@ -1,0 +1,31 @@
+
+	Sponsored License -- for use in support of a program or activity sponsored by MathWorks.
+	Not for government, commercial or other non-sponsored organizational use.
+
+COMPARACION voz_genero: 2 grupos
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better performance. <a
+href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+COMPARACION voz_acentos: 17 grupos
+COMPARACION maquinaria_tipos: 2 grupos
+[Warning: Vectorized content might take a long time to create, or it might contain unexpected results. Set 'ContentType' to 'image' for better performance. <a
+href="matlab:warning('off', 'MATLAB:print:ContentTypeImageSuggested')">Click here</a> to not see this message again.] 
+COMPARACION fresado_condiciones: 16 grupos
+COMPARACION alarmas_tipos: 2 grupos
+COMPARACION voz_vs_maquinaria: 2 grupos
+COMPARACION alarmas_vs_maquinaria: 2 grupos
+COMPARACION voz_vs_alarmas: 2 grupos
+COMPARACION categorias: 3 grupos
+                  audios_caracterizados: 221
+                         audios_dataset: 221
+                           sin_procesar: [0×1 string]
+               figuras_individuales_png: 221
+               figuras_individuales_pdf: 221
+               figuras_comparativas_png: 27
+               figuras_comparativas_pdf: 27
+                    csv_numerico_finito: 1
+    rms_y_pico_verificados_con_original: 1
+                            png_300_dpi: 1
+                            metodo_mfcc: 'Audio_Toolbox_mfcc_log_ignore'
+                          comparaciones: [9×1 string]
+                               training: 0
+

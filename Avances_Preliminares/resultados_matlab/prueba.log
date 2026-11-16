@@ -1,0 +1,13 @@
+
+	Sponsored License -- for use in support of a program or activity sponsored by MathWorks.
+	Not for government, commercial or other non-sponsored organizational use.
+
+[test 1/9] Speech_M_00018.wav | RMS -12.28 dBFS | centroide 542.3 Hz
+[test 2/9] Speech_F_00002.wav | RMS -15.29 dBFS | centroide 605.1 Hz
+[test 3/9] Speech_A_00007.wav | RMS -24.53 dBFS | centroide 658.0 Hz
+[test 4/9] Machine_Milling_00029.wav | RMS -18.82 dBFS | centroide 925.7 Hz
+[test 5/9] Machine_Other_00001.wav | RMS -18.54 dBFS | centroide 476.2 Hz
+[test 6/9] Machine_Milling_00072.wav | RMS -18.08 dBFS | centroide 864.1 Hz
+[test 7/9] Alarm_General_00003.wav | RMS -21.55 dBFS | centroide 1035.2 Hz
+[test 8/9] Alarm_Fire_00006.wav | RMS -24.83 dBFS | centroide 3275.8 Hz
+[test 9/9] Alarm_General_00001.wav | RMS -17.17 dBFS | centroide 946.7 Hz
